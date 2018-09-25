@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mayalust/ps-amplifer/issues"
   },
-  "homepage": "https://github.com/mayalust/ps-amplifer#readme"
+  "homepage": "https://github.com/mayalust/ps-amplifer#readme",
+  "dependencies": {
+    "vue": "^2.5.17"
+  }
 }
